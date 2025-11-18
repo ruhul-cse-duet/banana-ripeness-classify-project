@@ -2,6 +2,10 @@
 
 Streamlit application that classifies banana photos into four ripeness stages (Unripe, Ripe, Overripe, Rotten) using a custom CNN checkpoint.
 
+## Live project link below
+https://banana-ripeness-classify.streamlit.app/
+
+
 ## Local Development
 
 ```bash
