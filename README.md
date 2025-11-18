@@ -48,4 +48,5 @@ git push -u origin main
 
 After pushing, enable GitHub Actions or the repository’s container registry if you need automated builds. Update `README.md` with the image name/tag once it exists on Docker Hub or GHCR.
 
-
+## Author
+[Md Ruhul Amin](https://www.linkedin.com/in/ruhul-duet-cse/);  Email: ruhul.cse.duet@gmail.com
